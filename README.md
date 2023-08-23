@@ -21,9 +21,7 @@ Skills: JAVA /REACT / JS / HTML / CSS / PHP / SQL
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nuri6336)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Nuri6336&show_icons=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Nuri6336)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Nuri6336&show_icons=true)   
 
 ![GitHub metrics](https://metrics.lecoq.io/Nuri6336)  
 
