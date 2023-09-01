@@ -23,7 +23,5 @@ Skills: JAVA /REACT / JS / HTML / CSS / PHP / SQL
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Nuri6336&show_icons=true)   
 
-![GitHub metrics](https://metrics.lecoq.io/Nuri6336)  
-
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Nuri6336)  
 
